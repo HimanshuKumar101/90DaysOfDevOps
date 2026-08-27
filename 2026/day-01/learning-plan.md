@@ -5,7 +5,7 @@
 
 - Why you are starting learning DevOps & Cloud?
 
-I am learning Devops and cloud to gain knowledge and switch. 
+  I am learning Devops and cloud to gain knowledge and switch. 
 
 - Where do you want to reach?
 
